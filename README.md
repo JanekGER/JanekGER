@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![roadmap.sh](https://roadmap.sh/card/wide/6aa840bdc2d718138dcd9cb3?variant=dark&roadmaps=javascript%2Chtml%2Cpython)](https://roadmap.sh)
 <!--
 **JanekGER/JanekGER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+df
